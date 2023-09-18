@@ -29,8 +29,9 @@ public class Main {
         if (frida.isTired){
             System.out.println("Dang, i'm tired bruh");
         }else{
-            System.out.println("Dang, i'm not tired bruh");
+            
         }
+        System.out.println("Is this the first commit?");
 
 
 
